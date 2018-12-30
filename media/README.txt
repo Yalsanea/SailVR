@@ -1,0 +1,1 @@
+This folder will contain gifs/videos of some gameplay elements in action as well as any major updates.
